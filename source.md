@@ -1339,6 +1339,10 @@ H:
 <li class="fragment"> [Gollum](https://github.com/gollum/gollum)
 <li class="fragment"> [Gitbook](https://www.gitbook.com/)
 
+N:
+
+Pending: [third party hosted option](https://git.wiki.kernel.org/index.php/GitHosting)
+
 H:
 
 ## References
@@ -1364,5 +1368,9 @@ H:
  2. Create a branch to test an experimental feature
  3. Merge your ```test branch``` into your ```master branch```
 * (level 3) <!-- .element: class="fragment" data-fragment-index="3"-->
- 1. Share your repo online using [Git on the server](https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols)
- Tip: you may use a [third party hosted option](https://git.wiki.kernel.org/index.php/GitHosting)
+ 1. Find _new_ usages for ```git commands```
+ 1. Search for git-based projects such as [Github pages](https://pages.github.com/)
+ 
+N:
+
+Pending themes: [Git on the server](https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols)
