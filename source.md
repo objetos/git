@@ -135,6 +135,12 @@ V:
     <figcaption><a href="https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control#Centralized-Version-Control-Systems">centralized Version Control Systems</a></figcaption>
 </figure>
 
+N:
+
+Disadvantages:
+1. Remote nature of versioning commands
+2. Data corruption
+
 V:
 
 ## Introduction: VCS types
