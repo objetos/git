@@ -1331,7 +1331,7 @@ H:
 <li class="fragment"> [Classroom](https://classroom.github.com/videos)
 <li class="fragment"> [Github pages](https://pages.github.com/), see also [Top Open-Source Static Site Generators](https://www.staticgen.com/)
 <li class="fragment"> [Gollum](https://github.com/gollum/gollum)
-<li class="fragment"> [Gibook](https://www.gitbook.com/)
+<li class="fragment"> [Gitbook](https://www.gitbook.com/)
 
 H:
 
