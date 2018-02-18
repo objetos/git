@@ -1354,24 +1354,3 @@ H:
 * [Git tips & tricks](http://gitready.com/)
 * [Try Git online](https://try.github.io/levels/1/challenges/1)
 * [Further Git references](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
- 
-H:
-
-### Workshop
-
-* (level 1) <!-- .element: class="fragment" data-fragment-index="1"-->
- 1. Create a local Git repo to track some source files
- 1. Create the program of your choice
- 2. Begin to track your program source files with Git
- 1. Commit some changes
- 1. Use ```git tool``` and/or ```git difftool``` to study some changes
-* (level 2) <!-- .element: class="fragment" data-fragment-index="2"-->
- 2. Create a branch to test an experimental feature
- 3. Merge your ```test branch``` into your ```master branch```
-* (level 3) <!-- .element: class="fragment" data-fragment-index="3"-->
- 1. Find _new_ usages for ```git commands```
- 1. Search for git-based projects such as [Github pages](https://pages.github.com/)
- 
-N:
-
-Pending themes: [Git on the server](https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols)
