@@ -236,7 +236,7 @@ V:
 ### Team creativity affairs
 
 <figure>
-    <img height='260' src='fig/pull_request.png' />
+    <img height='260' src='fig/pullrequest.png' />
     <figcaption><a href="https://help.github.com/articles/using-pull-requests/">Pull requests</a></figcaption>
 </figure>
 
@@ -1338,6 +1338,7 @@ H:
 <li class="fragment"> [Github pages](https://pages.github.com/), see also [Top Open-Source Static Site Generators](https://www.staticgen.com/)
 <li class="fragment"> [Gollum](https://github.com/gollum/gollum)
 <li class="fragment"> [Gitbook](https://www.gitbook.com/)
+<li class="fragment"> [electricbook](http://electricbook.works/)
 
 N:
 
@@ -1353,7 +1354,7 @@ H:
 * [Git tips & tricks](http://gitready.com/)
 * [Try Git online](https://try.github.io/levels/1/challenges/1)
 * [Further Git references](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
-
+ 
 H:
 
 ### Workshop
