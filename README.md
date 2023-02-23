@@ -1,6 +1,6 @@
 ## Object Oriented Programming Slides -- Git
 
-Part of the *Object Oriented Programming* course.
+Part of the *Object Oriented Programming* course given at [Universidad Nacional de Colombia](https://unal.edu.co/) by Jean Pierre Charalambos.
 
 Powered by [reveal](https://github.com/hakimel/reveal.js).
 
