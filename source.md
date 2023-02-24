@@ -22,7 +22,9 @@ H:
 # Introduction to git
 
 by Jean Pierre Charalambos  
-[Universidad Nacional de Colombia](https://unal.edu.co/)
+[Universidad Nacional de Colombia](https://unal.edu.co/)  
+Presentation best seen [online](https://objetos.github.io/git/)  
+See also the [source code](https://github.com/objetos/git)
 
 H:
 
